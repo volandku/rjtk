@@ -1,4 +1,4 @@
-rjtk
+JTF
 ====
 
 Joomla Template Framework
