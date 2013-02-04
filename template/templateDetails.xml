@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3" type="template">
+        <name>JTF</name>
+        <creationDate>2013-02-04</creationDate>
+        <author>Pazys</author>
+        <authorEmail>idm.box@gmail.com</authorEmail>
+        <authorUrl>http://joomlaforum.ru</authorUrl>
+        <copyright>copyleft</copyright>
+        <license>GNU/GPL 2 or Later</license>
+        <version>1.0.0</version>
+        <description>зызы</description>
+        <files>
+                <filename>index.php</filename>
+                <filename>index.html</filename>
+                <filename>templateDetails.xml</filename>
+                <folder>images</folder>
+                <folder>css</folder>
+                <folder>html</folder>
+                <folder>js</folder>
+        </files>
+        <positions>
+                <position>navbar</position>
+                <position>breadcrumb</position>
+                <position>right</position>
+                <position>footer</position>
+        </positions>
+</extension>
